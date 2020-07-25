@@ -4,7 +4,7 @@ CHAINLINK Google Chrome Extension
 
 Hi,
 
-My project is a google chrome extension good for traders.
+My project is a google chrome extension good for traders. (theres a video detailing the project inside the .rar file.)
 
 
 You can use the eth price from the chainlink contract to use as a trustable price.
